@@ -9,4 +9,8 @@
 
 <img align="center" alt="IsXGeo's Github Stats" src="https://github-readme-stats-five-beige.vercel.app/api/top-langs/?username=Alistair212&count_private=true&show_icons=true&include_all_commits=true"/>
 
+
+[![Top Langs](https://github-readme-stats-five-beige.vercel.app/api/top-langs/?username=Alistair212&)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ###### You can get these cool github stat apis [here](https://github.com/anuraghazra/github-readme-stats).
