@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alistair's Github Stats](https://github-readme-stats.vercel.app/api?username=Alistair212&count_private=true&theme=chartreuse-dark)
+[![Alistair's Github Stats](https://github-readme-stats.vercel.app/api?username=Alistair212&count_private=true&theme=chartreuse-dark)](https://github.com/Alistair212)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alistair212&layout=compact&theme=chartreuse-dark)](https://github.com/Alistair212)
 
